@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\bin\Debug\net6.0\TMPS.L4.Mihai.exe
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\bin\Debug\net6.0\TMPS.L4.Mihai.deps.json
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\bin\Debug\net6.0\TMPS.L4.Mihai.runtimeconfig.json
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\bin\Debug\net6.0\TMPS.L4.Mihai.dll
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\bin\Debug\net6.0\TMPS.L4.Mihai.pdb
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.dll
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\refint\TMPS.L4.Mihai.dll
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.pdb
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\TMPS.L4.Mihai.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Desktop\TMPS.L4.Mihai\TMPS.L4.Mihai\obj\Debug\net6.0\ref\TMPS.L4.Mihai.dll
